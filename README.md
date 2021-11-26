@@ -7,6 +7,9 @@
 - :star: I'm interested in graphical visualization.
 - :love_letter: Contact me: pengfeixc@sina.com.
 
+## Github Stats
+
+![Wang Pengfei's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengfeiw)
 
 ## Leetcode Stats
 
