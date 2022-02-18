@@ -1,14 +1,7 @@
-#  👱 Hi！
+I'm a frontend developer in ShangHai.
+If you have any questions and want to contact me, you can send me an email: <a href="mailto:pengfeixc@sina.com">pengfeixc@sina.com</a>
 
-## This is Wang Pengfei
+## Links
 
--  🚀 Personal's WebSite: [www.pengfeixc.com](http://www.pengfeixc.com)
--  ✨ MiniCode(My project site): [minicode](https://pengfeiw.github.io/minicode)
--  🌏 I'm interested in graphical visualization.
--  📧 Contact me: pengfeixc@sina.com.
-
-![Wang Pengfei's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengfeiw)
-
-## Leetcode Stats
-
-![Wang Pengfei's Leetcode Stats](https://leetcode.card.workers.dev/?username=WangPF)
+-  [www.pengfeixc.com](http://www.pengfeixc.com)
+-  [https://pengfeiw.github.io/minicode](https://pengfeiw.github.io/minicode)
